@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95284335-2cbf-477f-834d-6a372e8309e7" name="Changes" comment="new" />
+    <list default="true" id="95284335-2cbf-477f-834d-6a372e8309e7" name="Changes" comment="Merge">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WeatherApp/Weather_app" beforeDir="false" afterPath="$PROJECT_DIR$/WeatherApp/Weather_app" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +63,7 @@
       <workItem from="1682031489470" duration="2313000" />
       <workItem from="1682033973532" duration="229000" />
       <workItem from="1682291759920" duration="300000" />
+      <workItem from="1682293213612" duration="10100000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1682033856045</created>
@@ -75,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682034017108</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge">
+      <created>1682293030912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682293030912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="Merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge" />
   </component>
 </project>
